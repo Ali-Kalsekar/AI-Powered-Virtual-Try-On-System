@@ -1,4 +1,5 @@
 # AI-Powered Virtual Try-On System
+> Last automated login update: 2026-04-14 12:41:38
 
 Production-ready real-time virtual try-on system built with Python, OpenCV, and MediaPipe Pose.
 
@@ -35,28 +36,28 @@ Users can try shirt, jacket, and glasses overlays live from webcam input with la
 
 ```text
 virtual_tryon_system/
-├── main.py
-├── requirements.txt
-├── README.md
-├── pose_estimation/
-│   ├── __init__.py
-│   └── pose_detector.py
-├── clothing/
-│   ├── __init__.py
-│   └── clothing_overlay.py
-├── utils/
-│   ├── __init__.py
-│   ├── draw.py
-│   ├── fps.py
-│   └── logger.py
-├── config/
-│   └── config.yaml
-├── assets/
-│   ├── shirts/
-│   ├── jackets/
-│   └── glasses/
-└── output/
-    └── tryon_log.csv
+Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ main.py
+Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ requirements.txt
+Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ README.md
+Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ pose_estimation/
+Ã¢â€â€š   Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ __init__.py
+Ã¢â€â€š   Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ pose_detector.py
+Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ clothing/
+Ã¢â€â€š   Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ __init__.py
+Ã¢â€â€š   Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ clothing_overlay.py
+Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ utils/
+Ã¢â€â€š   Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ __init__.py
+Ã¢â€â€š   Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ draw.py
+Ã¢â€â€š   Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ fps.py
+Ã¢â€â€š   Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ logger.py
+Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ config/
+Ã¢â€â€š   Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ config.yaml
+Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ assets/
+Ã¢â€â€š   Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ shirts/
+Ã¢â€â€š   Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ jackets/
+Ã¢â€â€š   Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ glasses/
+Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ output/
+    Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ tryon_log.csv
 ```
 
 ## Installation
